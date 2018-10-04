@@ -1,0 +1,29 @@
+.navigation {
+  background-color: #222;
+}
+
+.navigation-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: center;
+}
+
+.navigation-list-item {
+  margin: 10px 20px;
+}
+
+.navigation-list-item-anchor {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navigation-list-item-anchor:visited {
+  color: #ffffff;
+}
+
+.navigation-list-item-anchor:hover {
+  color: #525dce;
+}
