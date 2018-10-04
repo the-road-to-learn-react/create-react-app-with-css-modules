@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/the-road-to-learn-react/create-react-app-with-css-modules.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/create-react-app-with-css-modules) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
-Showcasing how CSS Modules can be used in create-react-app. [Read more about it](https://www.robinwieruch.de/create-react-app-css-modules).
+Showcasing how CSS Modules can be used in create-react-app. [Read more about it](https://www.robinwieruch.de/create-react-app-css-modules). TLDR: They can be used out of the box, by using the *.module.css* prefix (e.g. *Navigation.module.css*) for your CSS files.
 
 ## Features
 
